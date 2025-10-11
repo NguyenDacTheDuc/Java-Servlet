@@ -1,0 +1,41 @@
+body {
+  background: url("../picture/lagque.jpg");
+  background-size: cover;
+}
+a {
+  width: 30%;
+}
+.user {
+  background-image: url("../picture/image.png");
+  background-size: cover;
+}
+.student {
+  background-image: url("../picture/student.png");
+  background-size: cover;
+}
+.teacher {
+  background-image: url("../picture/teacher.png");
+  background-size: cover;
+}
+.department {
+  background-image: url("../picture/department.png");
+  background-size: cover;
+}
+.class {
+  background-image: url("../picture/class.png");
+  background-size: cover;
+}
+.subject {
+  background-image: url("../picture/subject.png");
+  background-size: cover;
+}
+a:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 1);
+}
+.change:hover {
+  background-color: darkgray;
+}
+.out:hover {
+  color: white;
+  background-color: red;
+}

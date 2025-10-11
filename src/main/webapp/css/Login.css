@@ -1,0 +1,13 @@
+.container-fluid {
+  background: url("../picture/rain.gif") center;
+  background-size: cover;
+}
+hr {
+  width: 35%;
+}
+.hr span {
+  margin: 0 9px;
+}
+.bong {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+}
