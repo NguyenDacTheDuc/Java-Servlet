@@ -24,7 +24,7 @@
       </div>
     </div>
     <div class="d-flex flex-wrap justify-content-center align-items-center">
-      <a href="user" class="user text-decoration-none mx-4 my-3 p-5 d-block rounded text-center text-light">
+      <a href="/admin/user" class="user text-decoration-none mx-4 my-3 p-5 d-block rounded text-center text-light">
         <h2 class="my-5">User</h2>
       </a>
       <a href="student" class="student text-decoration-none mx-4 my-3 p-5 d-block bg-secondary rounded text-center text-light">
